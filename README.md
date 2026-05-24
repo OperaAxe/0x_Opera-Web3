@@ -23,8 +23,6 @@ I am a **Technical Writer & QA Engineer** with an engineering background. I brid
 
 ### 📂 Featured Proof of Work (My Portfolio)
 
-> 💡 *This section is where your actual writing pieces live. Update these links as you ship them!*
-
 * 📄 **[API Documentation Guide](https://github.com/OperaAxe)** – A comprehensive walkthrough on testing and documenting Web3/Crypto API endpoints using Postman.
 * 🔧 **[Open-Source Contribution](https://github.com/OperaAxe)** – A clean, restructured technical onboarding guide rewritten for enhanced developer clarity.
 * 🧪 **[QA Framework & Breakdown](https://github.com/OperaAxe)** – Detailed testing methodologies for capturing and documenting edge cases in software workflows.
